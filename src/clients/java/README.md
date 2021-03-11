@@ -1,4 +1,4 @@
-# Example Java and Scala client Using Generated GRPC API
+# Example Java and Scala client Using Generated GRPC and HTTP API
 
 
 ## Prerequsites
